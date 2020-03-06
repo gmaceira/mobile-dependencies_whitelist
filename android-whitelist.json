@@ -1010,6 +1010,11 @@
       "group": "com\\.mercadolibre\\.android\\.loyalty\\.datamanager",
       "name": "data-manager",
       "version": "1\\.\\+"
+    },    
+    {
+      "group": "com\\.mercadolibre\\.android\\.loyalty_ui_components",
+      "name": "loyalty_ui_components",
+      "version": "1\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.mlbusinesscomponents",
